@@ -14,4 +14,4 @@ you need the latest python 3.14 installed
 Install dependencies
 pip install -r requirements.txt
 
-
+FEEL FREE TO FIX BUGS ITS STILL A BETA
